@@ -25,3 +25,20 @@ class Biblioteca:
         print(f"\nLibros en {self.nombre}:")
         for libro in self.libros:
             print(f"- {libro.mostrar_info()}")
+
+
+# Creación de instancias y uso del sistema
+if __name__ == "__main__":
+    # Crear biblioteca
+    biblio_central = Biblioteca("Biblioteca Central")
+
+    # Crear libros
+    libro1 = Libro("Cien años de soledad", "Gabriel García Márquez", 1967)
+    libro2 = Libro("Rayuela", "Julio Cortázar", 1963)
+
+    # Agregar libros a la biblioteca
+    biblio_central.agregar_libro(libro1)
+    biblio_central.agregar_libro(libro2)
+
+    # Mostrar catálogo
+    biblio_central.listar_libros()
