@@ -36,4 +36,4 @@ Diana Estefania Ramón
 
 ## Captura de pantalla del código
 
-![img.png](img.png)
+![ejecucion del codigo.png](Imagenes/ejecucion%20del%20codigo.png)
