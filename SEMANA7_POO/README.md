@@ -25,8 +25,6 @@ Diana Ramon
 
 ## Captura de pantalla del código Ejecutado :
 
-![CAPTURA DE PANTALLA .png](Imagen/CAPTURA%20DE%20PANTALLA%20.png)
-
-
+ ![CAPTURA DE PANTALLA .png](Imagen/CAPTURA%20DE%20PANTALLA%20.png)
 
 
